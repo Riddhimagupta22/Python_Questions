@@ -7,7 +7,7 @@ print ("end")
 
 #predefined variable!!
 c = 25
-d = 25
+d = 2
 print ("sum of the given numbers :",c + d)
 print ("end")
 
